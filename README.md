@@ -1,4 +1,4 @@
-- 👋 Ola, meu nome é @MuriloSilva31
-- meu email de contato é murilo.silvade.araujo@escola.pr.gov.br
-- 👀 eu estou interessado em aprender novas linguagens
-- 🌱 Eu estou aprendendo a programar com javascrip e scratch
+- Meu nome é @MuriloSilva31
+- Meu email de contato é murilo.silvade.araujo@escola.pr.gov.br
+- Eu estou interessado em aprender novas linguagens
+- Eu estou aprendendo a programar com javascrip e scratch
